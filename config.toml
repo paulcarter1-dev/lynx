@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
      { email = "mailto:hello@paulcarter.tv" },
- { linkedin = "https://linkedin.com/in/paulcarter01" },
+     { linkedin = "https://linkedin.com/in/paulcarter01" },
      { instagram = "https://instagram.com/paulcartertv" },
      { link = { href = "https://www.bbc.co.uk/programmes/m002gj2v", text = "World's Greatest Train Journeys" } },
 { link = { href = "https://www.bbc.co.uk/programmes/m00144p9", text = "TechXplore" } },
